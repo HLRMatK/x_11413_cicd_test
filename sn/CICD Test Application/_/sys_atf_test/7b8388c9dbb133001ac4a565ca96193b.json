@@ -1,0 +1,21 @@
+{
+  "active": false,
+  "copied_from": null,
+  "description": null,
+  "enable_parameterized_testing": false,
+  "name": "CICD t2",
+  "parameters": null,
+  "remember": null,
+  "sys_class_name": "sys_atf_test",
+  "sys_created_by": "admin",
+  "sys_created_on": "2019-05-31 17:26:49",
+  "sys_id": "7b8388c9dbb133001ac4a565ca96193b",
+  "sys_mod_count": 1,
+  "sys_name": "CICD t2",
+  "sys_package": "268e9d5fdbb32300fcf417803996195e",
+  "sys_policy": null,
+  "sys_scope": "268e9d5fdbb32300fcf417803996195e",
+  "sys_update_name": "sys_atf_test_7b8388c9dbb133001ac4a565ca96193b",
+  "sys_updated_by": "admin",
+  "sys_updated_on": "2019-05-31 17:39:33"
+}
