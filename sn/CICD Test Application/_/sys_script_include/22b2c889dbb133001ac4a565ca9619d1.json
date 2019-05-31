@@ -1,0 +1,24 @@
+{
+  "access": "package_private",
+  "active": true,
+  "api_name": "x_11413_cicd_test.testMe",
+  "caller_access": null,
+  "client_callable": false,
+  "description": null,
+  "name": "testMe",
+  "script": {
+    "____see": "sn\\CICD Test Application\\Script Include\\active_true\\x_11413_cicd_test.testMe.js"
+  },
+  "sys_class_name": "sys_script_include",
+  "sys_created_by": "admin",
+  "sys_created_on": "2019-05-31 17:23:14",
+  "sys_id": "22b2c889dbb133001ac4a565ca9619d1",
+  "sys_mod_count": 2,
+  "sys_name": "testMe",
+  "sys_package": "268e9d5fdbb32300fcf417803996195e",
+  "sys_policy": "read",
+  "sys_scope": "268e9d5fdbb32300fcf417803996195e",
+  "sys_update_name": "sys_script_include_22b2c889dbb133001ac4a565ca9619d1",
+  "sys_updated_by": "admin",
+  "sys_updated_on": "2019-05-31 17:25:31"
+}
